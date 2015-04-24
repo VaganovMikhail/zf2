@@ -34,6 +34,7 @@ after_script:
 
 notifications:
   email:
+  
     - mail@fewor.ru
 
 matrix:
